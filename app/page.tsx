@@ -1,5 +1,5 @@
 // import Image from "next/image";
-
+//Checking the git is working or not
 import Hero from "@/components/main/Hero";
 
 export default function Home() {
